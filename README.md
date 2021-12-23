@@ -1,1 +1,1 @@
-# Intermediare-CSS
+# Intermediate-CSS
